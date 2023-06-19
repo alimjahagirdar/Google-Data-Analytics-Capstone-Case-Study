@@ -52,9 +52,11 @@ Jupyter tool : Data Combining
 12 CSV files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year.
 
 # Data Exploration
+File : [DATA EXPLORATION](https://github.com/alimjahagirdar/Google-Data-Analytics-Capstone-Case-Study/blob/master/cyclist.ipynb)
 # Data cleaning
+File : [DATA CLEANING](https://github.com/alimjahagirdar/Google-Data-Analytics-Capstone-Case-Study/blob/master/cyclist.ipynb)
 # Analyze and Share
- data analysis: [Jupyter Notebook (python)]()
+ data analysis: [Jupyter Notebook (python)](https://github.com/alimjahagirdar/Google-Data-Analytics-Capstone-Case-Study/blob/master/cyclist.ipynb)
  Data Visualization : [tableau](https://public.tableau.com/views/CyclisticDashboard_16871775780630/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
  ### The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?
