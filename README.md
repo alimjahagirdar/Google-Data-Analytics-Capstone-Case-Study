@@ -66,7 +66,10 @@ File : [DATA CLEANING](https://github.com/alimjahagirdar/Google-Data-Analytics-C
  4. The fourth chart shows how cyclists take rides in a week, we got to know that member's cyclist rides increase during working days whereas casual rider's rides increase during weekends and holidays.
  5. the fifth chart shows which rideable bikes are used mostly used in terms of months, and we got to know that docked bike rides remained constant with not much increase as compared to electric and classic bikes. 
  
- ![Dashboard 1](https://github.com/alimjahagirdar/Google-Data-Analytics-Capstone-Case-Study/assets/69685661/426f92b9-977b-4f3b-8e56-b50000699c82)
+
+
+ ![Dashboard 1](https://github.com/alimjahagirdar/Google-Data-Analytics-Capstone-Case-Study/assets/69685661/d9d9dcc7-a1ea-4846-9f9e-a37af51924db)
+
 
  # Act
  After identifying the differences between casual and member riders, marketing strategies to target casual riders can be developed to persuade them to become members.
